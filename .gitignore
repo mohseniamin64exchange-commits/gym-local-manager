@@ -1,0 +1,14 @@
+node_modules/
+data/
+videos/
+*.log
+settings.json
+*.tmp
+*.bak
+
+# Local screenshots and previews
+*.png
+*.jpg
+*.jpeg
+*.webp
+!public/*.png
