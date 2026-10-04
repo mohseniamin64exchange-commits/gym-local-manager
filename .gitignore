@@ -1,6 +1,15 @@
 node_modules/
 data/
 videos/
+
+# Video media always stays on the local server; only its path is stored in data.
+**/*.mp4
+**/*.webm
+**/*.m4v
+**/*.mov
+**/*.ogg
+**/*.avi
+**/*.mkv
 *.log
 settings.json
 *.tmp
